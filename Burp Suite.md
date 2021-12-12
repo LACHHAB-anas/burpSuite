@@ -1,4 +1,4 @@
-# Burb Suite
+# Burb Suite by § LACHHAB ANAS §
 
 Burp Suite, a framework of web application pentesting tools, is widely regarded as the de facto tool to use when performing web app testing. 
 
@@ -72,5 +72,7 @@ Proxy servers by definition allow us to relay our traffic through an alternative
 Repeater allows us to repeat requests we've already made.
 
 
+
+#by LACHHAB Anas
 
 
